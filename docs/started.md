@@ -1,5 +1,10 @@
-# Как начать работу
-## Софт
+# РљР°Рє РЅР°С‡Р°С‚СЊ СЂР°Р±РѕС‚Сѓ
+## РЎРѕС„С‚
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/downloads)
 - [Miniconda3](https://docs.conda.io/en/latest/miniconda.html)
+
+```bash
+conda env create -f environment.yaml
+conda activate ct-env
+```
